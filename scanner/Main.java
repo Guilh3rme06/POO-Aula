@@ -64,10 +64,6 @@ public class Main {
         /* 
         ArrayList<Integer> numerosList = ListNumeros.numeros();
         System.out.println("Lista: " + numerosList);*/
-
-        /////////////////////////////////////////////
-        /// Exercicio 7
-        /* */
         
     }
 }
