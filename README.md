@@ -1,36 +1,36 @@
 # POO-Aula
 
-Este repositório contém os exercícios de aula de Programação Orientada a Objetos.
+This repository contains class exercises for Object Oriented Programming.
 
-## Estrutura do Repositório
+## Repository Structure
 
-- `src/`: Código fonte dos exercícios.
-- `docs/`: Documentação e materiais de apoio.
-- `tests/`: Testes automatizados para os exercícios.
+- `src/`: Source code of the exercises.
+- `docs/`: Documentation and supporting materials.
+- `tests/`: Automated tests for the exercises.
 
-## Como Usar
+## How to Use
 
-1. Clone o repositório:
+1. Clone the repository:
     ```bash
     git clone https://github.com/Guilh3rme06/POO-Aula.git
     cd POO-Aula
     ```
 
-2. Compile os arquivos Java:
+2. Compile the Java files:
     ```bash
     javac src/*.java -d bin
     ```
 
-3. Execute os programas:
+3. Run the programs:
     ```bash
     java -cp bin MainClass
     ```
 
-## Informações do Curso
+## Course Information
 
-- **Instituição**: IPLUSO Ensino Politécnico da Lusofonia
-- **Curso**: Programação Orientada a Objetos
+- **Institution**: IPLUSO Ensino Politécnico da Lusofonia
+- **Course**: Object Oriented Programming
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+Contributions are welcome! Feel free to open issues and pull requests.
