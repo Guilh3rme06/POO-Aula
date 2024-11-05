@@ -28,8 +28,7 @@ Este repositório contém os exercícios de aula de Programação Orientada a Ob
 
 ## Informações do Curso
 
-- **Instituição**: [Nome da Instituição]
-- **Professor**: [Nome do Professor]
+- **Instituição**: IPLUSO Ensino Politécnico da Lusofonia
 - **Curso**: Programação Orientada a Objetos
 
 ## Contribuição
